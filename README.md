@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Janet Martinez 😊
 =========================================================================================================================================
 
-Majoring in Computer Information Systems. I have been learning different coding languages like HTML, CSS, JavaScript, Python, Java, & SQL for 2 years.
+Majoring in Computer Information Systems. I have been learning different coding languages like HTML, CSS, JavaScript, Python, Java, & SQL for over 2 years.
 
 * 🌍  I'm based in Russellville, AL
 * ✉️  You can contact me at [jmartinez4@una.edu](mailto:jmartinez4@una.edu)
