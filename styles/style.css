@@ -1,0 +1,108 @@
+/* css selector 
+element (tag name)
+id 
+class
+(adv., pseudo)
+*/
+
+.main{
+  margin: 50px;
+  background-color: pink;
+  border: 5px solid PaleVioletRed; 
+}
+
+.nav-bar{
+  word-spacing: 90px;
+  font-size: 20px;
+  font-family: "Courier New" ,monospace;
+  font-weight: bold;
+}
+
+.nav-bar ul li a{
+  text-decoration: none;
+  color: MediumSlateBlue;
+}
+
+.nav-bar ul li{
+  display: inline-block;
+  -webkit-transition: border 1s, border-radius 1s, padding 1s, background-color 1s, color 1s;
+}
+
+.nav-bar ul li:hover{
+  border-bottom: 2px solid gray;
+  border-radius: 10%;
+  padding: 10px;
+  background-color: MistyRose;
+  color: white;
+}
+
+.container{
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  padding:1rem;
+  width:1200px;
+  height:650px;
+}
+
+h1{
+    color : rgb(0, 0, 128);
+    font-size : 40px;
+    font-family : "Courier New", monospace;
+    font-weight : bold;
+    text-align : center;
+    }
+
+p{ 
+    font-family: "Courier New", monospace; 
+    font-weight : bold;
+    font-size: 20px; 
+    color : darkblue;
+    } 
+    
+    
+h2 {
+    color : Navy;
+    font-size : 25px;
+    font-family : "Courier New", monospace;
+    font-weight : bold;
+    }
+h3 {
+    color : PaleVioletRed;
+    font-size : 17px;
+    font-family : "Courier New", monospace;
+    font-weight : bold;
+}
+body {
+    background-color: thistle;
+}
+
+.right-content {
+  float: right;
+}
+
+aside{
+    width : 50%;
+    float : left;
+    padding : 10px;
+}
+
+.section{
+    width : 30%;
+    float : right;
+    padding : 10px;
+}
+
+article{
+    width : 20%;
+    float : left;
+    padding : 10px;
+}
+
+footer {
+    display : block;
+    clear : both;
+    background-color : pink;
+    text-align : center;
+    padding : 25px;
+}
+
